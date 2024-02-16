@@ -1,0 +1,83 @@
+header {
+  background-color: #99ef7c;
+  margin-top: 0;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+nav ul li {
+  display: inline-block; 
+  margin-right: 10px; 
+}
+
+nav ul li a {
+  color: #fff; 
+  text-decoration: none; 
+  font-size: 24px; 
+}
+
+.logo,
+.pageTitle {
+display: inline-block;
+vertical-align: middle; 
+}
+.pageTitle {
+  margin-left: 50px;
+}
+
+.masthead{ 
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+  width: 100%;
+
+}
+.post-masthead {
+  height: 300px;
+  width: 100%;
+  
+}
+#container {
+  margin-left: 40px;
+  margin-bottom: 50px;
+  height: 100px;
+  width: 1200px;
+}
+.featuredimg {
+  width: 300px;
+  height: 200px;
+  float: left;
+  margin-right: 10px; 
+  margin-bottom : 50px;
+}
+
+footer {
+  margin-top: 100px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #99ef7c;
+  text-align: center;
+}
+
+img.header-logo {
+  width: 100px; 
+  height: auto;
+}
+footer a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.countries-pics-container img {
+  width: 350px; 
+  height: 200px;
+  display: block; 
+  margin-right: 50px;
+}
+section .custom-plugin-section {
+  height: 500px;
+  width: 1200px;
+}
