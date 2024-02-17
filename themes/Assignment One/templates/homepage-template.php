@@ -8,7 +8,7 @@ get_header();
 
 <main>
   <!-- create a post design using Advanced Custom Fields -->
-  <section class="masthead" style="background-image: url('<?php echo esc_url(get_field('masthead_image')); ?>'); background-position: center; background-repeat: no-repeat;">
+  <section class="masthead" style="background-image: url('<?php echo  wp_kses_post(get_field('masthead_image')); ?>'); background-position: center; background-repeat: no-repeat;">
     <div>
       <h1 style="color: #fff; background-color: #6FB3E6;">
         <?php the_title(); ?>
