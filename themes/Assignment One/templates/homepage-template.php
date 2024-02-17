@@ -7,6 +7,7 @@ get_header();
 ?>
 
 <main>
+  <!-- create a post design using Advanced Custom Fields -->
   <section class="masthead" style="background-image: url('<?php echo esc_url(get_field('masthead_image')); ?>'); background-position: center; background-repeat: no-repeat;">
     <div>
       <h1 style="color: #fff; background-color: #6FB3E6;">
@@ -24,7 +25,7 @@ get_header();
       </p>
     </div>
   </section>
-
+<!-- create a dynamic image fields -->
   <div id="container">
     <section class="row">
       <div>
