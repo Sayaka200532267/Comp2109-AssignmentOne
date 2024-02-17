@@ -1633,9 +1633,15 @@
 		<dc:creator><![CDATA[sayakaoh]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/cmsfri/?page_id=42</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<h1>Hi</h1>
 <section>This is the classic editor
 
+=======
+		<content:encoded><![CDATA[<h1>Hi</h1>
+<section>This is the classic editor
+
+>>>>>>> 64dc5954d52d330dce2b2ee095b6934692053609
 </section>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>42</wp:post_id>
@@ -2014,8 +2020,13 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[row_one_text]]></wp:meta_key>
+<<<<<<< HEAD
 		<wp:meta_value><![CDATA[In this page, I want to talk about the countries I want to visit: Italy, New Zealand and Norway.
 The reason why I chose these countries because they are full of nature with beautiful scenaries such as mountains and the sea. 
+=======
+		<wp:meta_value><![CDATA[In this page, I want to talk about the countries I want to visit: Italy, New Zealand and Norway.
+The reason why I chose these countries because they are full of nature with beautiful scenaries such as mountains and the sea. 
+>>>>>>> 64dc5954d52d330dce2b2ee095b6934692053609
 The beach on the main image is from New Zealand.]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -2643,9 +2654,15 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<dc:creator><![CDATA[sayakaoh]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/cmsfri/?p=107</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<h1></h1>
 &nbsp;
 
+=======
+		<content:encoded><![CDATA[<h1></h1>
+&nbsp;
+
+>>>>>>> 64dc5954d52d330dce2b2ee095b6934692053609
 &nbsp;]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>107</wp:post_id>
@@ -2716,8 +2733,13 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<dc:creator><![CDATA[sayakaoh]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/cmsfri/?p=109</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[&nbsp;
 
+=======
+		<content:encoded><![CDATA[&nbsp;
+
+>>>>>>> 64dc5954d52d330dce2b2ee095b6934692053609
 &nbsp;]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>109</wp:post_id>
@@ -2788,9 +2810,15 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<dc:creator><![CDATA[sayakaoh]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/cmsfri/?p=111</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<h1></h1>
 &nbsp;
 
+=======
+		<content:encoded><![CDATA[<h1></h1>
+&nbsp;
+
+>>>>>>> 64dc5954d52d330dce2b2ee095b6934692053609
 &nbsp;]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>111</wp:post_id>
@@ -2911,6 +2939,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[row_one_text]]></wp:meta_key>
+<<<<<<< HEAD
 		<wp:meta_value><![CDATA[These are the countries I want to visit: Italy, Norway, and New Zealand. 
 The waterfall on this page is the Bridal Veil Falls, which is located on the North Island of New Zealand.
 
@@ -2920,6 +2949,17 @@ Italy has history, art, and tasty food in cities like Rome, Florence, and Venice
 
 Norway has stunning fjords, mountains, and the Northern Lights. You can do outdoor activities and learn about Norway's past.
 
+=======
+		<wp:meta_value><![CDATA[These are the countries I want to visit: Italy, Norway, and New Zealand. 
+The waterfall on this page is the Bridal Veil Falls, which is located on the North Island of New Zealand.
+
+The reasons why I chose these countries are as follows:
+
+Italy has history, art, and tasty food in cities like Rome, Florence, and Venice. It also has beautiful landscapes like Tuscany and the Amalfi Coast.
+
+Norway has stunning fjords, mountains, and the Northern Lights. You can do outdoor activities and learn about Norway's past.
+
+>>>>>>> 64dc5954d52d330dce2b2ee095b6934692053609
 New Zealand has wild landscapes, fun activities like bungee jumping, and Maori culture. It's also famous for movie sets and geothermal areas.]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -3072,11 +3112,19 @@ New Zealand has wild landscapes, fun activities like bungee jumping, and Maori c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[row_one_text]]></wp:meta_key>
+<<<<<<< HEAD
 		<wp:meta_value><![CDATA[Italy has a mix of history, culture, food, and beauty that attracts people of all ages and interests. Whether you're discovering old ruins, enjoying tasty meals and drinks, or just taking in the lively atmosphere, Italy will give you lasting memories.
 
 
 
 
+=======
+		<wp:meta_value><![CDATA[Italy has a mix of history, culture, food, and beauty that attracts people of all ages and interests. Whether you're discovering old ruins, enjoying tasty meals and drinks, or just taking in the lively atmosphere, Italy will give you lasting memories.
+
+
+
+
+>>>>>>> 64dc5954d52d330dce2b2ee095b6934692053609
 ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
